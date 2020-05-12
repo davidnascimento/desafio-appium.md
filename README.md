@@ -4,11 +4,14 @@ Construir um teste básico do login do aplicativo.
 
 Será necessário realizar no mínimo a autenticação no app.
 
+Usuário: testedasilva1@grr.la
+Senha: qee123
+
 ## Requisitos Técnicos
 
 * O desafio deve ser feito na linguagem node|python. (preferencialmente node)
 * Obrigatoriamente deve-se utilizar o Appium.
-* A apk e o ipa file estão disponíveis no repositorio.
+* A apk estará disponível no repositorio.
 * Utilizaremos AWS Device Farm para execução dos testes, caso os mesmos já estejam preparados, será um diferencial.
 
 ## Critérios de Avaliação
