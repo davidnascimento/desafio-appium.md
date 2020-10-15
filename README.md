@@ -9,10 +9,9 @@ Senha: qee123
 
 ## Requisitos Técnicos
 
-* O desafio deve ser feito na linguagem node|python. (preferencialmente node)
-* Obrigatoriamente deve-se utilizar o Appium.
+* O desafio deve ser feito na linguagem node|python|c#. 
+* Sugestão utilizar o Appium.
 * A apk estará disponível no repositorio.
-* Utilizaremos AWS Device Farm para execução dos testes, caso os mesmos já estejam preparados, será um diferencial.
 
 ## Critérios de Avaliação
 
