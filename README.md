@@ -26,7 +26,7 @@ O desafio será avaliado através de quatro critérios.
 
 ### Boas Práticas
 
-* O código está de acordo com o guia de estilo do node?
+* O código está de acordo com o guia de estilo da linguagem utilizada?
 * O código está bem estruturado?
 * O código está fluente na linguagem?
 * O código faz o uso correto de Design Patterns?
