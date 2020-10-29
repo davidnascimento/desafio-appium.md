@@ -9,7 +9,7 @@ Senha: qee123
 
 ## Requisitos Técnicos
 
-* O desafio deve ser feito na linguagem node|python|c#. 
+* O desafio deve ser feito em alguma dessas linguagem: node|python|c#. 
 * Sugestão utilizar o Appium.
 * A apk estará disponível no repositorio.
 
